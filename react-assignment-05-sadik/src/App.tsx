@@ -17,18 +17,15 @@ function App() {
 
 
       <main>
-        {/* Technology Section */}
+        
         <TechnologySection />
 
-        {/* More sections can be added here later */}
-        {/* Projects */}
-        {/* About */}
-        {/* Contact */}
+        
       </main>
 
       <Footer />
 
-      {/* Toast Notifications */}
+      
       <ToastContainer
         position="top-right"
         autoClose={2500}
