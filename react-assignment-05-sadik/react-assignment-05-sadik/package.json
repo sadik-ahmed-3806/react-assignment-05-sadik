@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "react-icons": "^5.7.0",
-    "react-toastify": "^11.1.0",
-    "tailwindcss": "^4.3.3"
-=======
   "name": "react-assignment-05-sadik",
   "private": true,
   "version": "0.0.0",
@@ -32,6 +25,5 @@
     "oxlint": "^1.81.0",
     "typescript": "~6.0.2",
     "vite": "^8.3.0"
->>>>>>> f6023a0 (components installed)
   }
 }
