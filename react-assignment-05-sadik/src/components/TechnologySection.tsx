@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { toast } from "react-toastify";
 
-import technologiesData from "../data/technologies.json";
+import technologiesData from "./data/technologies.json";
 
 import type { Technology } from "../types/technology";
 

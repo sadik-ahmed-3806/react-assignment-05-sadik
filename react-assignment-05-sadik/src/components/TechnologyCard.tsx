@@ -10,6 +10,7 @@ import {
   SiTailwindcss,
   SiDocker,
 } from "react-icons/si";
+import type { IconType } from "react-icons";
 
 import type { Technology } from "../types/technology";
 
@@ -19,7 +20,7 @@ interface TechnologyCardProps {
   onAdd: (technology: Technology) => void;
 }
 
-const iconMap = {
+const iconMap: Record<string, IconType> = {
   SiReact,
   SiVuedotjs,
   SiSvelte,
@@ -37,9 +38,11 @@ const TechnologyCard = ({
   isAdded,
   onAdd,
 }: TechnologyCardProps) => {
-  const TechnologyIcon = iconMap[
-    technology.icon as keyof typeof iconMap
-  ];
+  const TechnologyIcon = iconMap[technology.icon];
+
+  if (!TechnologyIcon) {
+    return null;
+  }
 
   return (
     <article className="flex min-h-[290px] flex-col rounded-xl border border-gray-100 bg-white p-5 shadow-sm transition duration-200 hover:-translate-y-1 hover:shadow-md">
