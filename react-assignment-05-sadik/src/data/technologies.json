@@ -1,0 +1,102 @@
+[
+{
+  "id": "react",
+  "name": "React",
+  "category": "Frontend",
+  "description": "A component-driven library for building interactive user interfaces.",
+  "icon": "SiReact",
+  "rating": 5,
+  "difficulty": "Beginner-Friendly",
+  "badge": "Popular"
+},
+{
+  "id": "vue",
+  "name": "Vue.js",
+  "category": "Frontend",
+  "description": "A progressive framework for creating responsive and elegant interfaces.",
+  "icon": "SiVuedotjs",
+  "rating": 4,
+  "difficulty": "Beginner-Friendly",
+  "badge": "Flexible"
+},
+{
+  "id": "svelte",
+  "name": "Svelte",
+  "category": "Frontend",
+  "description": "A compiler-driven framework that produces highly efficient client code.",
+  "icon": "SiSvelte",
+  "rating": 4,
+  "difficulty": "Intermediate",
+  "badge": "Fast"
+},
+{
+  "id": "nextjs",
+  "name": "Next.js",
+  "category": "Frontend",
+  "description": "A full-stack React framework for production-grade web applications.",
+  "icon": "SiNextdotjs",
+  "rating": 5,
+  "difficulty": "Intermediate",
+  "badge": "Full-Stack"
+},
+{
+  "id": "nodejs",
+  "name": "Node.js",
+  "category": "Backend",
+  "description": "A JavaScript runtime that powers scalable backend services and APIs.",
+  "icon": "SiNodedotjs",
+  "rating": 5,
+  "difficulty": "Intermediate",
+  "badge": "Server"
+},
+{
+  "id": "postgresql",
+  "name": "PostgreSQL",
+  "category": "Database",
+  "description": "A reliable relational database known for robustness and advanced querying.",
+  "icon": "SiPostgresql",
+  "rating": 5,
+  "difficulty": "Intermediate",
+  "badge": "Reliable"
+},
+{
+  "id": "redis",
+  "name": "Redis",
+  "category": "Database",
+  "description": "An in-memory data store that boosts speed with caching and queues.",
+  "icon": "SiRedis",
+  "rating": 4,
+  "difficulty": "Intermediate",
+  "badge": "Fast"
+},
+{
+  "id": "typescript",
+  "name": "TypeScript",
+  "category": "Language",
+  "description": "A typed superset of JavaScript that improves safety and maintainability.",
+  "icon": "SiTypescript",
+  "rating": 5,
+  "difficulty": "Beginner-Friendly",
+  "badge": "Safe"
+},
+{
+  "id": "tailwind",
+  "name": "Tailwind CSS",
+  "category": "Styling",
+  "description": "A utility-first CSS framework for shipping polished interfaces faster.",
+  "icon": "SiTailwindcss",
+  "rating": 5,
+  "difficulty": "Beginner-Friendly",
+  "badge": "Utility"
+},
+{
+  "id": "docker",
+  "name": "Docker",
+  "category": "DevOps",
+  "description": "A tool for packaging applications into portable, consistent containers.",
+  "icon": "SiDocker",
+  "rating": 4,
+  "difficulty": "Intermediate",
+  "badge": "Containerized"
+}
+]

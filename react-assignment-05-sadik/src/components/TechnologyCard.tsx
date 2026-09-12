@@ -50,8 +50,11 @@ const TechnologyCard = ({
       {/* Top row */}
       <div className="mb-4 flex items-start justify-between">
         {/* Technology icon */}
-        <div className="flex h-10 w-10 items-center justify-center">
-          <TechnologyIcon className="h-8 w-8" />
+        <div
+          className="flex h-10 w-10 items-center justify-center"
+          style={{ fontSize: "2rem" }}
+        >
+          <TechnologyIcon />
         </div>
 
         {/* Badge */}
