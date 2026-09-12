@@ -1,0 +1,102 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A component-based JavaScript library for building interactive and reusable user interfaces.",
+    "icon": "SiReact",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "vue",
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "A progressive framework for creating responsive and maintainable web interfaces.",
+    "icon": "SiVuedotjs",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+  },
+  {
+    "id": "svelte",
+    "name": "Svelte",
+    "category": "Frontend",
+    "description": "A modern UI framework that shifts much of the work from the browser to the build process.",
+    "icon": "SiSvelte",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "A React framework for building production-ready applications with routing and server features.",
+    "icon": "SiNextdotjs",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Production"
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime that allows developers to build scalable server-side applications.",
+    "icon": "SiNodedotjs",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Backend"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful open-source relational database designed for reliability and complex data workloads.",
+    "icon": "SiPostgresql",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Database",
+    "description": "An in-memory data store commonly used for caching, sessions, queues, and fast application data.",
+    "icon": "SiRedis",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Cache"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language that improves JavaScript development with static type checking.",
+    "icon": "SiTypescript",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for building custom interfaces quickly with reusable utility classes.",
+    "icon": "SiTailwindcss",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Modern"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A container platform for packaging applications and their dependencies into portable environments.",
+    "icon": "SiDocker",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
+  }
+]
